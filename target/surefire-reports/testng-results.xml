@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="VideoGameAPItestSuite" duration-ms="2472" started-at="2019-12-15T11:36:32Z" finished-at="2019-12-15T11:36:34Z">
+    <groups>
+    </groups>
+    <test name="VideoGameTestCases" duration-ms="2472" started-at="2019-12-15T11:36:32Z" finished-at="2019-12-15T11:36:34Z">
+      <class name="TestCases.VideoGameAPItest">
+        <test-method status="PASS" signature="getAllvideogames()[pri:1, instance:TestCases.VideoGameAPItest@7d417077]" name="getAllvideogames" duration-ms="1659" started-at="2019-12-15T03:36:32Z" finished-at="2019-12-15T03:36:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllvideogames -->
+        <test-method status="PASS" signature="createnewVideogame()[pri:2, instance:TestCases.VideoGameAPItest@7d417077]" name="createnewVideogame" duration-ms="204" started-at="2019-12-15T03:36:34Z" finished-at="2019-12-15T03:36:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createnewVideogame -->
+        <test-method status="PASS" signature="getspecificvideogame()[pri:3, instance:TestCases.VideoGameAPItest@7d417077]" name="getspecificvideogame" duration-ms="512" started-at="2019-12-15T03:36:34Z" finished-at="2019-12-15T03:36:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getspecificvideogame -->
+        <test-method status="PASS" signature="updatevideogame()[pri:4, instance:TestCases.VideoGameAPItest@7d417077]" name="updatevideogame" duration-ms="51" started-at="2019-12-15T03:36:34Z" finished-at="2019-12-15T03:36:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatevideogame -->
+        <test-method status="PASS" signature="deletevideogame()[pri:5, instance:TestCases.VideoGameAPItest@7d417077]" name="deletevideogame" duration-ms="23" started-at="2019-12-15T03:36:34Z" finished-at="2019-12-15T03:36:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletevideogame -->
+      </class> <!-- TestCases.VideoGameAPItest -->
+    </test> <!-- VideoGameTestCases -->
+  </suite> <!-- VideoGameAPItestSuite -->
+</testng-results>
