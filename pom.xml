@@ -39,7 +39,7 @@
 			<groupId>org.testng</groupId>
 			<artifactId>testng</artifactId>
 			<version>6.11</version>
-			<scope>compile</scope>
+			<scope>compile123</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.poi</groupId>
